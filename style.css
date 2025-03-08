@@ -31,6 +31,7 @@ select{
 }
 textarea{
     height: 80px;
+    resize:vertical;
 }
 button{
     background-color:rgb(137, 196, 21) ;
